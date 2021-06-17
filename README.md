@@ -30,6 +30,9 @@ const Landon = {
 ```
 ---
 ⬆️ What I'm up to
+
+- 📆 In the near future, I plan to...
+- 
 ---
 
 <!--
