@@ -5,6 +5,30 @@
 
 ### <img align='right' src="https://media-exp3.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1629331200&v=beta&t=ZS0PhYmeSbyq4LIg6SQ9GmuwbAavRXER4kCt-sYeCjA" width=250>
 
+```javascript
+const Landon = {
+    pronouns: "He" | "Him",
+    strengths: "Cool" & "Nice",
+    code: ["Javascript", "Typescript", "Python", "Java", "R"],
+    askMeAbout: ["web dev", "tech", "anime", "music"],
+    technologies: {
+        backEnd: {
+            languages: ["Java", "Python", "c#"],
+        },
+        frontEnd: {
+            languages: ["JavaScript", "HTML", "CSS"]
+            frameworks: ["React", "Angular"]
+        },
+        mobile: {
+            languages: ["React Native", "iOS Development"]
+        },
+        databases: ["MSSQL", "MySql"],
+    },
+    focus: "Front-end Development",
+    favoriteDataStructure: "JavaScript Array"
+};
+```
+
 <!--
 **CoolandNiceGuy/CoolandNiceGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
