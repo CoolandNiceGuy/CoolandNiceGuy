@@ -29,7 +29,7 @@ const Landon = {
 };
 ```
 ---
-hello
+⬆️ What I'm up to
 ---
 
 <!--
