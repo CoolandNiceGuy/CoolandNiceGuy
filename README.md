@@ -16,7 +16,7 @@ const Landon = {
             languages: ["Java", "Python", "c#"],
         },
         frontEnd: {
-            languages: ["JavaScript", "HTML", "CSS"]
+            languages: ["JavaScript", "HTML", "CSS"],
             frameworks: ["React", "Angular"]
         },
         mobile: {
@@ -29,10 +29,17 @@ const Landon = {
 };
 ```
 ---
-⬆️ What I'm up to
+### ⬆️ What I'm up to
 
-- 📆 In the near future, I plan to...
-- 
+- 📅 In the near future, I plan to...
+    * <p>Graduate from the <a href="https://raikes.unl.edu/welcome">Raikes School of Computer Science and Management</a></p>
+    * <p>Add my lastest Spotify machine learning project to Github</p>
+    * <p>Write a blog post about my time as a remote NerdWallet Intern</p>
+    * <p>Get to work on a personel site</p>
+- 🚀 In the distant future, I hope to...
+    * <p>Participate more in the open-source community</p>
+    * <p>Create educational resources for aspiring developers</p>
+    * <p>Grow my experience with big data</p>
 ---
 
 <!--
