@@ -3,7 +3,7 @@
 <p><em>Software Engineering Intern @ &nbsp;<a href="https://www.nerdwallet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=90></a></em></p>
 
 
-### <img align='right' src="https://media-exp3.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1629331200&v=beta&t=ZS0PhYmeSbyq4LIg6SQ9GmuwbAavRXER4kCt-sYeCjA" width=100>
+### <img align='right' src="https://media-exp3.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1629331200&v=beta&t=ZS0PhYmeSbyq4LIg6SQ9GmuwbAavRXER4kCt-sYeCjA">
 
 <!--
 **CoolandNiceGuy/CoolandNiceGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
