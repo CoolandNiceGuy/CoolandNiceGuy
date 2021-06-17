@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Landon 
 
-<p><em>Software Engineering Intern @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png"></em></p>
+<p><em>Software Engineering Intern @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=30></em></p>
 
 
 ### <img align='right' src="https://media-exp3.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1629331200&v=beta&t=ZS0PhYmeSbyq4LIg6SQ9GmuwbAavRXER4kCt-sYeCjA" width=100>
