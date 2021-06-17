@@ -44,7 +44,7 @@ const Landon = {
 ### 📲 Wanna get in touch? Feel free to reach out!
 * Linkedin: <a href="https://www.linkedin.com/in/landon-borges/">https://www.linkedin.com/in/landon-borges/</a>
 * Email: landonborges4@gmail.com
-* Twitter: @Landon_Borges
+* Twitter: <a href="https://twitter.com/Landon_Borges">@Landon_Borges</a>
 
 <!--
 **CoolandNiceGuy/CoolandNiceGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
