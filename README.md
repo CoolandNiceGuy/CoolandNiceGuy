@@ -10,7 +10,7 @@ const Landon = {
     pronouns: "He" | "Him",
     strengths: "Cool" & "Nice",
     code: ["Javascript", "Typescript", "Python", "Java", "R"],
-    askMeAbout: ["web dev", "tech", "anime", "music"],
+    askMeAbout: ["web dev", "tech", "music", "90s anime"],
     technologies: {
         backEnd: {
             languages: ["Java", "Python", "c#"],
