@@ -33,7 +33,7 @@ const Landon = {
 
 - 📅 In the near future, I plan to...
     * <p>Graduate from the <a href="https://raikes.unl.edu/welcome">Raikes School of Computer Science and Management</a></p>
-    * <p>Add my lastest Spotify machine learning project to Github</p>
+    * <p>Add my lastest Spotify machine learning project to Github ✅</p>
     * <p>Write a blog post about my time as a remote NerdWallet Intern</p>
     * <p>Get to work on a personal site</p>
 - 🚀 In the distant future, I hope to...
