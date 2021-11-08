@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Landon 
 
-<p><em>Software Engineering Intern @ &nbsp;<a href="https://www.nerdwallet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=90></a></em></p>
+<p><em>Incoming Software Engineering @ &nbsp;<a href="https://www.nerdwallet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=90></a></em></p>
 
 
 ### <img align='right' src="https://media-exp3.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1629331200&v=beta&t=ZS0PhYmeSbyq4LIg6SQ9GmuwbAavRXER4kCt-sYeCjA" width=250>
@@ -34,7 +34,7 @@ const Landon = {
 - 📅 In the near future, I plan to...
     * <p>Graduate from the <a href="https://raikes.unl.edu/welcome">Raikes School of Computer Science and Management</a></p>
     * <p>Add my lastest Spotify machine learning project to Github ✅</p>
-    * <p>Write a blog post about my time as a remote NerdWallet Intern</p>
+    * <p>Write a blog post about my time as a remote NerdWallet Intern ✅</p>
     * <p>Get to work on a personal site</p>
 - 🚀 In the distant future, I hope to...
     * <p>Participate more in the open-source community</p>
