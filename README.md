@@ -3,7 +3,7 @@
 <p><em>Incoming Software Engineering @ &nbsp;<a href="https://www.nerdwallet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=90></a></em></p>
 
 
-<img align='right' src="https://media-exp3.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1629331200&v=beta&t=ZS0PhYmeSbyq4LIg6SQ9GmuwbAavRXER4kCt-sYeCjA" width=250>
+### <img align='right' src="https://media-exp1.licdn.com/dms/image/C4E03AQHUnOT4rUt59w/profile-displayphoto-shrink_400_400/0/1623883038970?e=1642032000&v=beta&t=KBQxtxW__zlhXI6wNd9tTomtIjB8uijKIu3XFRiXJCg" width=250>
 
 ```javascript
 const Landon = {
