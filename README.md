@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Landon 
 
-<p><em>Incoming Software Engineering @ &nbsp;<a href="https://www.nerdwallet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=90></a></em></p>
+<p><em>Incoming Software Engineer @ &nbsp;<a href="https://www.nerdwallet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/800px-Nerdwallet_Horizontal_Logo.svg.png" width=90></a></em></p>
 
 
 ```javascript
