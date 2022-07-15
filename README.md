@@ -37,7 +37,7 @@ const Landon = {
 - 🚀 In the distant future, I hope to...
     * <p>Participate more in the open-source community</p>
     * <p>Create educational resources for aspiring developers</p>
-    * <p>Grow my experience with big data</p>
+    * <p>Invest more in learning about cloud computing</p>
 ---
 ### 📲 Wanna get in touch? Feel free to reach out!
 * Linkedin: <a href="https://www.linkedin.com/in/landon-borges/">https://www.linkedin.com/in/landon-borges/</a>
